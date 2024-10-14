@@ -1,4 +1,4 @@
-This is my forntend project for Assesment. 
+This is my front end project for Assesment. 
 <br>
 Author-Mandeep Singh
 About Project - This assignment involves creating a dashboard using the hotel booking data given in a csv file.
